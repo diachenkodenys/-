@@ -36,7 +36,7 @@ pg.moveTo(500,930)#тут координати дс на робочем стол
 pg.leftClick()
 pg.leftClick()
 
-time.sleep(6)
+time.sleep(6)#время чтоб дс открился при старте
 pg.moveTo(200,315)
 time.sleep(0.5)
 pg.leftClick()
